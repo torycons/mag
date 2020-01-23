@@ -1,0 +1,12 @@
+{
+  "name": "moblie-asset-generator",
+  "version": "0.0.1",
+  "description": "Asset generator from SVG to png for iOS and Android",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Thanapat Sorralump",
+  "license": "MIT",
+  "dependencies": {
+    "sharp": "^0.24.0"
+  }
+}
